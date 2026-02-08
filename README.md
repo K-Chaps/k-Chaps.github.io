@@ -4,4 +4,4 @@
 ####  shekinah
 ##### Anotidaishe
 ###### Chemhere
-~chapchap arikuziita mukoamana~
+~~chapchap arikuziita mukoamana~~
